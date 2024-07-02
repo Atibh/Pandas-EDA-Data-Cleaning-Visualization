@@ -1,7 +1,6 @@
 # Pandas-EDA-Data-Cleaning-Visualization
  The Pandas Data Analysis repository offers Jupyter notebooks for mastering data analysis with Pandas. Covering data cleaning, exploratory data analysis, and visualization, it includes practical techniques and visual examples. Ideal for beginners and experts.
 
-# Pandas Data Analysis Projects
 
 This repository contains a series of Jupyter notebooks that demonstrate various data analysis techniques using the Pandas library in Python.
 
